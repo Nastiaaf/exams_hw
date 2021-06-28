@@ -3,6 +3,7 @@ In this repository, I've attached the two HW files:
   - exec2.py
 
 --------------Explanation of exec1.py:--------------
+
 This file contains the solution for the first HW assignment - "Magic List".
 In order to use the class:
 1. Create a MagicList() object. For example:
@@ -18,6 +19,7 @@ In order to use the class:
 
 
 --------------Explanation of exec2.py:--------------
+
 This file contains the solution for the second HW assignment - "API Testing".
 In order to run the tests, first, clone the following repository https://github.com/polyrize/interview-server and follow the instructions to run the server.
 Also install the following modules:
